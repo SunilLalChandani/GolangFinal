@@ -1,0 +1,5 @@
+package innerme
+
+func InnerMeFunc() {
+
+}
